@@ -4,9 +4,9 @@
 
 ### Quantitative Finance · Machine Learning · Software Engineering
 
-MSc Computer Engineering & MSc Artificial Intelligence student at <a href="https://www.tue.nl/en/">Eindhoven University of Technology.</a>
+MSc Computer Engineering & Artificial Intelligence student at <a href="https://www.tue.nl/en/">TU/e</a>.
 
-Interested in quantitative finance, statistical modelling, market microstructure, and building high-performance systems.
+Focused on quantitative finance, statistical modelling, and high-performance systems.
 
 <br>
 
