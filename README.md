@@ -15,7 +15,7 @@ Focused on quantitative finance, statistical modelling, and high-performance sys
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/quintvanoorschot">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
