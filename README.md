@@ -4,7 +4,7 @@
 
 ### Quantitative Finance · Machine Learning · Software Engineering
 
-MSc Computer Engineering & Artificial Intelligence student at <a href="https://www.tue.nl/en/">TU/e</a>.
+MSc Computer Engineering & MSc Artificial Intelligence student at <a href="https://www.tue.nl/en/">Technical University of Eindhoven (TU/e)</a>.
 
 Focused on quantitative finance, statistical modelling, and high-performance systems.
 
