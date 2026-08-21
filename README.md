@@ -42,7 +42,7 @@ High-performance **Rust-based market microstructure simulator** for exploring th
 
 ### 🧠 [AutoFlakyDoctor](https://github.com/quintoorschot/AutoFlakyDoctor)
 
-Neuro-symbolic system for automatically **detecting and repairing flaky tests in CI pipelines**, developed as part of my Bachelor's thesis in collaboration with Sogeti.
+Neuro-symbolic system for automatically **detecting and repairing flaky tests in CI pipelines**, developed as part of my Bachelor's thesis in collaboration with Sogeti (Capgemini Group).
 
 `Python` `Generative AI` `GitHub Actions` `Software Engineering`
 
