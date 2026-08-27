@@ -27,22 +27,21 @@ Focused on quantitative finance, statistical modelling, and high-performance sys
 ---
 
 ## Selected Projects
-
 ### 📊 [Portfolio Risk Engine](https://github.com/quintoorschot/portfolio-risk-engine)
 
-**Python toolkit for quantitative portfolio risk analysis, including VaR, CVaR, historical and parametric estimation, backtesting, and the Kupiec POF test.**
+Python toolkit for **quantitative portfolio risk analysis**, including VaR, CVaR, historical and parametric estimation, backtesting, and the Kupiec POF test.
 
 `Python` `Statistics` `Risk Management` `Quantitative Finance`
 
 ### ⚡ [Market Microstructure Simulator](https://github.com/quintoorschot/market-microstructure-simulator)
 
-**A Rust-based discrete-event market microstructure simulator for exploring limit order books, matching engines, and agent-based trading.**
+A Rust-based **discrete-event market microstructure simulator** for exploring limit order books, matching engines, and agent-based trading.
 
 `Rust` `Market Microstructure` `Systems Programming`
 
 ### 🧠 [AutoFlakyDoctor](https://github.com/quintoorschot/AutoFlakyDoctor)
 
-**Neuro-symbolic system for automatically detecting and repairing flaky tests in CI pipelines, developed as part of my Bachelor's thesis in collaboration with Sogeti (Capgemini Group).**
+Neuro-symbolic system for **automatically detecting and repairing flaky tests** in CI pipelines, developed as part of my Bachelor's thesis in collaboration with Sogeti (Capgemini Group).
 
 `Python` `Generative AI` `GitHub Actions` `Software Engineering`
 
