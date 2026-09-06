@@ -47,6 +47,12 @@ Neuro-symbolic system for **automatically detecting and repairing flaky tests** 
 
 ---
 
+## Currently Building
+
+### 🦆🎩 Agent P
+An internal agentic research system for the upcoming IMC Prosperity trading challenge, built around reproducible experimentation, simulation, and automated strategy evaluation.
+
+---
 
 ## Interests
 
